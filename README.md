@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nick Ayca🙋, a Chilean Software Engineer Intern, and after a<br>long journey 🚀 through college courses I'm happily doing my internship,<br>✨wish me luck!✨<br>In my spare time, I'm Learning python🐍, french and project management 📊, and also<br>spending time with my N°1 priority, my loved ones ❤.
+Hi, I'm Nick Ayca🙋, a Chilean Software Engineer.
 
 
 ## 🌐 Socials:
