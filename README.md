@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an IT Manager and processes optimization.<br>🌱 I’m currently learning to dominate my stack.
+🔭 I’m currently working as an IT Manager and processes optimization.<br>🌱 I’m currently learning to dominate my stack and building Projects with clients.
 
 
 # 💻 Tech Stack:
